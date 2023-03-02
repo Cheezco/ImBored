@@ -1,0 +1,13 @@
+﻿{
+  "Foo1": "Bar",
+  "Foo2": "Bar",
+  "Foo3": "Bar",
+  "Foo4": "Bar",
+  "Foo5": "Bar",
+  "Foo6": "Bar",
+  "Foo7": [
+    "Bar",
+    "Bar",
+    "Bar"
+  ]
+}
