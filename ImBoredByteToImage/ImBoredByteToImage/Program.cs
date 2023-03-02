@@ -46,7 +46,7 @@ else
 
     var runner = new ConverterRunner(converter, logger);
 
-    // runner.RunToImage(inputFile, outputFile);
-    runner.RunFromImage(outputFile, output2File);
+    runner.RunToImage(inputFile, outputFile);
+    // runner.RunFromImage(outputFile, output2File);
 }
 
